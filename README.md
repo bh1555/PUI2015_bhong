@@ -1,4 +1,9 @@
 #PUI2015(assignment): Boyeong Hong
+##I resvised this repository and make each homework directory to merge my previous submitting homework in one repo.
+##To check my submission before deadline, existing repos still remained. Thank you!
+
+
+-----------------------------------------------------------------------------------------------
 This is Assignment 1 for Principle Urban Informatics course.
 
 ## IMG of .bash_profile
