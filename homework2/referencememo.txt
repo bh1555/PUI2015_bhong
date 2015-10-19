@@ -1,0 +1,7 @@
+jsonviewr --> google search
+
+StopPointName (address of stop point)
+PresentableDistance (1stop away..)
+
+My MTA url
+http://api.prod.obanyc.com/api/siri/vehicle-monitoring.json?key=915011c0-d5fc-4375-9f32-d376c3634c8c&VehicleMonitoringDetailLevel=calls&LineRef=M7
