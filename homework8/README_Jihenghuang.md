@@ -1,8 +1,8 @@
-<Your original plot>
+###Your original plot
 
 ![alt tag](plot_jhuang.jpg)
 
-<Comments>
+###Comments
 I really like your content of plot and representation method (dots or scatter). My suggetions as follow :)
 
 1. Modify title: make bigger title and make subtitle including details (lane information etc.) seperatly.
